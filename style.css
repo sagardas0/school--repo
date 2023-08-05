@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.head{
+    background-image:url(background\ sec-.png);
+    padding-left: 150px;
+    color: white;
+    padding-top: 20px;
+}
+.navbar{
+    display: flex;
+    gap: 50px;
+    
+    justify-content: space-between;
+    
+    
+    padding-right: 70px;
+    
+}
+.midlist{
+    list-style: none;
+   gap: 50px; 
+    display: flex;
+    
+    
+}
+.lastlist{
+    list-style: none;
+ gap: 20px;
+    display: flex;
+    margin-right: 50px;
+    
+}
+.btn{
+    background-image: linear-gradient(red,blue);
+    padding: 5px 10px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+}
+.btn2{
+gap: 10px;
+}
+.btn3{
+    border-style: none;
+    background-color: coral;
+    padding: 10px 20px;
+border-radius: 15px;
+color: aliceblue;
+column-gap: 10px;
+font-size: 20px;
+}
+.btn4{
+    margin-top: 30px;
+    border-style: none;
+    background-color: coral;
+    padding: 10px 20px;
+border-radius: 15px;
+color: aliceblue;
+font-size: 20px;
+}
+/* next part */
+.head1{
+    display: flex;
+    
+}
+.discription{
+    margin-top: 170px;
+    width: 50%;
+    
+}
+.f{
+    font-size: 70px;
+}
+.toppart{
+    padding-left: 150px;
+    margin-top: 50px;
+}
+.a{
+    font-size: 50px;
+}
+.mainpart{
+    display: flex;
+    padding-left: 150px;
+    margin-top: 50px;
+    gap: 150px;
+
+}
+.rightpart{
+    padding-left: 40px;
+    margin-top: 50px;
+    
+}
+.part1{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+.gol{
+   background-color: lightgrey;
+   padding: 10px;
+   border-radius: 50%;
+   color: coral;
+}
+.part2{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+    
+}
+.part3{
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+/* next part */
+.nxtpart{
+    margin-top: 150px;
+    padding-left: 150px;
+}
+.t{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.card{
+    gap: 60px ;
+      margin-top: 60px;
+     display: flex;
+     margin-bottom: 50px;
+     
+   
+}
+.imgicon{
+    size: 32px;
+    background-color: #E74040;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+   
+}
+.line{
+    width: 50px;
+    height: 2px;
+    background: #E74040;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.card1{
+    padding: 35px 40px;
+    box-shadow: 0px  4px 4px rgba(0.722, 0.722, 0.722, 0.722);
+    border-radius: 10px;
+}
+/* next part */
+.partnext{
+    margin-top: 150px;
+    padding-left: 150px;
+    display: flex;
+    gap: 150px;
+    background-color: #26335D;
+}
+.linedivider{
+    width: 94px;
+    height: 7px;
+background: #E74040;
+margin-bottom: 30px;
+}
+.partrightside{
+    padding: 80px;
+
+}
+.fa-solid fa-angle-right{
+    background: #E74040;
+}
+.right4{
+    margin-bottom: 30px;
+    color: white;
+}
+/* nextpart */
+.lastpart{
+    margin-bottom: 80px;
+    margin-top: 150px;
+    padding-left: 150px;
+}
+.last1{
+    text-align: center;
+    font-size: 40px;
+}
+.last2{
+    text-align: center;
+    margin-top: 10px;
+   color: #737373; 
+   margin-bottom: 50px;
+}
+.last3{
+    width: 688px;
+ height: 58px;
+ margin-left: 340px;
+
+}
+.last4{
+    width: 158px;
+height: 60px;
+font-size: 14px;
+font-weight: 500;
+color: aliceblue;
+background: #f44a02f0;
+border-style: none;
+border-radius: 5px;
+
+
+}
+.footlast{
+    margin-top: 150px;
+    padding-left: 150px;
+    padding-right: 10px;
+    margin-top: 250px;
+    background: #26335D;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    color: white;
+    
+}
+.foot1{
+    size: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* next part */
+.fo{
+    padding-left: 150px;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.fo-icon{
+    margin-left: 650px;
+color: coral;
+gap: 20px;
+    
+    
+}
